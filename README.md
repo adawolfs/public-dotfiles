@@ -1,2 +1,12 @@
 # public-dotfiles
-Public Dotfiles
+
+This repository containes dotfiles for general use.
+
+
+## Installation
+```
+make install
+```
+
+## Supported tools
+### tmux
